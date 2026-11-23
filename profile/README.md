@@ -2,7 +2,6 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=1&pause=983&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1250&lines=Welcome+to+GOMUGOMU+🚀+Where+Technology+Meets+Creativity!)](https://git.io/typing-svg)
 
 </div>
 <br>
