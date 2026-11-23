@@ -15,7 +15,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=ff0303&size=29&height=70&center=true&vCenter=true&width=1200&lines=Building+Software+for+the+Pet+Care+Industry;The+Wufftail+Ecosystem;Technology+%2B+Creativity+%3D+Innovation" alt="Typing SVG" />
 </h3>
 
-<h3 align="center"><strong>✨ <em>"Building the future of pet care, one product at a time."</em> ✨</strong></h3>
+<h3 align="center"><strong>✨ <em>"Building the future of pet care."</em> ✨</strong></h3>
 
 <br>
 
