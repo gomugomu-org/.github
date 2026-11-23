@@ -10,7 +10,7 @@
 ![MasterHead](https://github.com/GOMUGOMUSTUDIOES/GOMUGOMUSTUDIOES/blob/main/assets/hoodie%20(2).gif)
 
 
-<h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;We are <img src="./assets/myname.svg"  alt="GOMU GOMU"/></h1>
+<h1 align="center">Hi There! We are GOMU GOMU </h1>
 
 <h3 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=ff0303&size=29&height=70&center=true&vCenter=true&width=1200&lines=Building+Software+for+the+Pet+Care+Industry;The+Wufftail+Ecosystem;Technology+%2B+Creativity+%3D+Innovation" alt="Typing SVG" />
